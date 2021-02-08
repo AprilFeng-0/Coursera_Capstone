@@ -1,2 +1,2 @@
-# Coursera_Capstone
-IBM DS Capstone
+# Coursera
+IBM DS Projects
